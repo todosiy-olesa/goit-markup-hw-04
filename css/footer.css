@@ -1,0 +1,24 @@
+.footer {
+  padding: 100px;
+  background-color: #2e2f42;
+}
+
+.footer-logo {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+
+  color: #f4f4fd;
+}
+.accent {
+  color: #4d5ae5;
+}
+.footer-text {
+  max-width: 264px;
+  line-height: 1.5;
+  margin: 0;
+  color: #f4f4fd;
+}
