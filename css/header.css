@@ -30,6 +30,7 @@
   display: block;
   padding: 24px 0;
   font-weight: 500;
+  transition: color 250ms ease;
 }
 .main-link:hover,
 .main-link:focus,
@@ -57,7 +58,8 @@
   align-items: center;
   gap: 40px;
 }
-.contacts-item {
+.contacts-link {
+  transition: color 250ms ease;
 }
 .contacts-link:hover,
 .contacts-link:focus {

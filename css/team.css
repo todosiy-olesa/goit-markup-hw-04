@@ -40,6 +40,7 @@
   font-size: 20px;
   line-height: 1.2;
   text-align: center;
+  margin-bottom: 8px;
 }
 
 .team-item-text {
@@ -71,12 +72,12 @@
   border-radius: 50%;
   background-color: #4d5ae5;
 
-  transition: background-color 300ms;
+  transition: background-color 250ms;
 }
 .team-social-link:hover,
 .team-social-link:focus {
   background-color: #404bbf;
 }
 .team-icon {
-  color: #fff;
+  color: #f4f4fd;
 }
