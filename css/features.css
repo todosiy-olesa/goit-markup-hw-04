@@ -2,6 +2,17 @@
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.features-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 264px;
+  height: 112px;
+  margin-bottom: 8px;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  background: #f4f4fd;
+}
 .features-list {
   margin: 0;
   padding: 0;
